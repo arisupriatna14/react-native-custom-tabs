@@ -6,7 +6,7 @@ import android.graphics.Color;
 import android.content.Intent;
 import android.os.Bundle;
 import android.provider.Browser;
-import android.support.customtabs.CustomTabsIntent;
+import androidx.browser.customtabs.CustomTabsIntent;
 import android.text.TextUtils;
 
 import com.droibit.android.customtabs.launcher.CustomTabsLauncher;
